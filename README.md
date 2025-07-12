@@ -3,7 +3,7 @@
 Step 1:
 Collect data from https://www.themoviedb.org/
 or
-from the Dataset directory
+from the Datasets directory
 
 step 2:
 Run all the codes of recommendation
