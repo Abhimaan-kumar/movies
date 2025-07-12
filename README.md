@@ -9,7 +9,11 @@ from the Datasets directory
 
 step 2:
 Run all the codes of recommendation
-  or 
+
+
+  or
+
+  
 you can directly use app.py by using similarity.pkl file
 
 
